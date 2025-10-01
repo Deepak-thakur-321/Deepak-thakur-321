@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React,GSAP, JavaScript, Frontend & Backend integration**
 
-- 📫 How to reach me **deepakthakur17756@gmail.com**
+- 📫 How to reach me **deepakthakur.codr@gmail.com**
 
 - ⚡ Fun fact **I think I am funny and always find creative ways to solve problems**
 
